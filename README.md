@@ -9,7 +9,7 @@ This project features an **Interactive Sales Dashboard** created using Microsoft
 * **Insights:** Identified top-performing regions and sales trends.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Sales_Dashboard1.png)
+![Dashboard Screenshot](Sales_Dashboard1.xlsx)
 
 ## Tools Used
 * Microsoft Excel (Pivot Tables, Charts, Data Formatting)
